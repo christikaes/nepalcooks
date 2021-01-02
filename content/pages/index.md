@@ -37,15 +37,6 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: >-
-
-
-      <img
-      src="https://images.unsplash.com/photo-1588644525273-f37b60d78512?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
-      alt="Nepali Foods">
-
-
-      ---
-
       <span>Photo by <a
       href="https://unsplash.com/@abhishek_sanwa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Abhishek
       Sanwa Limbu</a> on <a
