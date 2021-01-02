@@ -1,5 +1,5 @@
 ---
 title: Recipes
 layout: blog
-excerpt: test
+excerpt: Recipes of Ne
 ---
