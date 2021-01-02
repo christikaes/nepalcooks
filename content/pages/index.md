@@ -13,6 +13,14 @@ sections:
 
       Nepal Cooks is a collection of Nepali foods and recipes! Browse our
       collection or recommend your own. Contact us to join our team!
+  - section_id: recent-posts
+    type: section_posts
+    title: Recipies
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: blog/index.html
+        style: button
   - section_id: about
     type: section_content
     title: Presented by Nepal Codes
@@ -30,14 +38,6 @@ sections:
     actions:
       - label: Contact Us
         url: /contact
-        style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Recipies
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
         style: button
   - title: lorem-ipsum
     section_id: lorem-ipsum
