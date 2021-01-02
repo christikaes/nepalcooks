@@ -71,7 +71,7 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "fa-fa",
+                "icon_class": "fa-facebook",
                 "new_window": true
             }
         ]
