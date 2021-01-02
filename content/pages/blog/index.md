@@ -1,5 +1,5 @@
 ---
 title: Recipes
 layout: blog
-excerpt: Recipes of Ne
+excerpt: Recipes of Nepali foods
 ---
