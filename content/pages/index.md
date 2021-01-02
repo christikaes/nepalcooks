@@ -15,7 +15,7 @@ sections:
       collection or recommend your own. Contact us to join our team!
   - section_id: recent-posts
     type: section_posts
-    title: Recipies
+    title: Recipes
     posts_number: 4
     actions:
       - label: View Recipes
