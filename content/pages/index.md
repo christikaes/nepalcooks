@@ -17,6 +17,10 @@ sections:
     type: section_content
     title: Presented by Nepal Codes
     content: >-
+      <img src="https://www.nepalcodes.com/img/logo/logo.png" alt="nepal codes
+      logo" />
+
+
       Nepal Cooks is brought to you by Nepal Codes. Our mission is to Learn,
       Code, and Innovate to make a positive impact on Nepalese worldwide. We
       learn and teach through mentorship programs and hands on experience such
