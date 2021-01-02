@@ -7,7 +7,7 @@ excerpt: >-
   aside.
 date: '2018-01-09'
 thumb_img_path: images/momo.jpg
-content_img_path: images/6.jpg
+content_img_path: images/smiling-amaranth.jpg
 layout: post
 ---
 
