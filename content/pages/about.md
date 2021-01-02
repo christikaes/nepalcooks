@@ -1,6 +1,6 @@
 ---
 title: Momo
-subtitle: This is a short page about me and my work.
+subtitle: The favorite food of all Nepalese worldwide!
 img_path: images/about.jpg
 layout: page
 ---
