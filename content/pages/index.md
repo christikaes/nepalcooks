@@ -18,7 +18,8 @@ sections:
     title: Presented by Nepal Codes
     content: >-
       <img src="https://www.nepalcodes.com/img/logo/logo.png" alt="nepal codes
-      logo" width="300" style="margin:auto;"/>
+      logo" width="300" style="width: 100%;max-width: 300px;margin-left:
+      calc(50% - 150px);margin-bottom: 30px;"/>
 
 
       Nepal Cooks is brought to you by Nepal Codes. Our mission is to Learn,
