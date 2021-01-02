@@ -1,7 +1,7 @@
 ---
 title: Momo
 subtitle: lorem-ipsum
-date: '2018-01-09'
+date: '2018-01-01'
 excerpt: >-
   Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
   as such. This specifically refers to difficult walking through dense forest,
