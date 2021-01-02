@@ -18,7 +18,7 @@ sections:
       as building applications such as this! Contact us to join our team or
       check out www.nepalcodes.com.
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: /contact
         style: button
   - section_id: recent-posts
