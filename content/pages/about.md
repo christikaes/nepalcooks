@@ -14,3 +14,6 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
 *Thank You for reading!*
+
+---
+<span>Photo by <a href="https://unsplash.com/@abhishek_sanwa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Abhishek Sanwa Limbu</a> on <a href="https://unsplash.com/s/photos/nepali-food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
