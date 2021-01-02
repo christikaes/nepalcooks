@@ -1,6 +1,6 @@
 ---
 title: Yomari
-subtitle: lorem-ipsum
+subtitle: A delicacy of the Newar community of Nepal
 date: '2018-01-09'
 excerpt: >-
   Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
