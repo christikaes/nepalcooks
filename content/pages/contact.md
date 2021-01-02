@@ -4,7 +4,10 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: >-
+      Do you have a recipe you would like to share? Would you like to join the
+      Nepal Codes team or help out with Nepal Cooks? We would love to hear from
+      you!
     form_id: contactForm
     form_action: /thank-you
     form_fields:
