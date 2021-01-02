@@ -10,7 +10,7 @@ sections:
       collection or recommend your own. Contact us to join our team!
   - section_id: about
     type: section_content
-    title: About
+    title: Presented by Nepal Codes
     content: >-
       Nepal Cooks is brought to you by Nepal Codes. Our mission is to Learn,
       Code, and Innovate to make a positive impact on Nepalese worldwide. We
