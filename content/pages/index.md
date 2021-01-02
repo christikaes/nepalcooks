@@ -10,7 +10,8 @@ sections:
       src="https://images.unsplash.com/photo-1588644525273-f37b60d78512?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
       alt="Nepali Foods">
 
-      <span style="font-size: 10px">Photo by Abhishek Sanwa Limbu on Unsplash
+      <span style="font-size: 10px">Photo by Abhishek Sanwa Limbu on
+      Unsplash</span>
 
 
       Nepal Cooks is a collection of Nepali foods and recipes! Browse our
