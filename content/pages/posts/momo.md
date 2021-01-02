@@ -13,7 +13,7 @@ thumb_img_path: images/momo.jpg
 content_img_path: images/smiling-amaranth.jpg
 ---
 
-Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
+Photo by [Abhishek Sanwa Limbu.](https://unsplash.com/s/photos/momo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 Momo is a type of steamed dumpling with some form of filling. Momo has become a traditional delicacy in Nepal, Tibet, as well as among Nepalese and Tibetan communities in Bhutan, as well as people of Ladakh, Northeast India and Darjeeling regions of India.
 
