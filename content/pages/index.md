@@ -18,7 +18,7 @@ sections:
     title: Presented by Nepal Codes
     content: >-
       <img src="https://www.nepalcodes.com/img/logo/logo.png" alt="nepal codes
-      logo" />
+      logo" width="300"/>
 
 
       Nepal Cooks is brought to you by Nepal Codes. Our mission is to Learn,
