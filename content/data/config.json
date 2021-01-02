@@ -40,6 +40,13 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "GitHub",
+                "url": "https://github.com/nepalcodes",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
                 "label": "Slack",
                 "url": "https://join.slack.com/t/nepalcodes/shared_invite/enQtNjYzMjE5MjY3MDI4LWI5NWEyNDljZDgzNzExOWQ0NjRhNDU4NDdmZGYzNmE1MDM4NDA3NjRmMWNkZDljMWU1NDhlMjk0NGZmMTU4MjQ",
                 "style": "icon",
@@ -51,13 +58,6 @@
                 "url": "https://twitter.com/nepalcodes",
                 "style": "icon",
                 "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/nepalcodes",
-                "style": "icon",
-                "icon_class": "fa-github",
                 "new_window": true
             },
             {
