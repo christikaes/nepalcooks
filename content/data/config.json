@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "orange",
     "header": {
         "title": "Stackbit Fresh",
         "tagline": "Header Tagline",
