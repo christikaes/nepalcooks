@@ -48,14 +48,5 @@ sections:
       - label: Contact Us
         url: /contact
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: >-
-      <span>Photo by <a
-      href="https://unsplash.com/@abhishek_sanwa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Abhishek
-      Sanwa Limbu</a> on <a
-      href="https://unsplash.com/s/photos/nepali-food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-    actions: []
-    type: section_hero
 layout: advanced
 ---
