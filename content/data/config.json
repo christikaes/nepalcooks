@@ -77,6 +77,16 @@
         ]
     },
     "footer": {
-        "content": "&copy; Nepal Codes. All rights reserved."
+        "content": "&copy; Nepal Codes. All rights reserved.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "type": "action"
+            }
+        ]
     }
 }
