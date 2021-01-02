@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Nepal Cooks
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Nepal Cooks is a collection of Nepali foods and recipes! Browse our
+      collection or recommend your own. Contact us to join our team!
   - section_id: about
     type: section_content
     title: About
