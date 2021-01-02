@@ -18,7 +18,7 @@ sections:
     title: Recipies
     posts_number: 4
     actions:
-      - label: View Recipies
+      - label: View Recipes
         url: blog/index.html
         style: button
   - section_id: about
