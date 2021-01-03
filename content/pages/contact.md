@@ -29,7 +29,7 @@ sections:
           - I have a recipe!
           - I am interested in helping Nepal Cooks
           - I am interested in Nepal Codes
-          - lorem-ipsum
+          - Other
       - input_type: textarea
         name: message
         label: Message
