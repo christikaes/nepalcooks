@@ -1,7 +1,7 @@
 ---
 title: Yomari
 subtitle: A delicacy of the Newar community of Nepal
-date: ''
+date: '2020-01-02'
 excerpt: >-
   Yomari, also called Yamari, is a delicacy of the Newar community in Nepal. It
   is a steamed dumpling that consists of an external covering of rice flour with
