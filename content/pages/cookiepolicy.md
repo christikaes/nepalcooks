@@ -3,7 +3,7 @@ title: Cookie Policy
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Cookie Policy
     section_id: lorem-ipsum
     content: >-
       This cookie policy ("Policy") describes what cookies are and how and
