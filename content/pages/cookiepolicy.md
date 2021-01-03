@@ -17,7 +17,7 @@ sections:
       declining the use of cookies.
 
 
-      ## What are cookies?
+      ### What are cookies?
 
 
       Cookies are small pieces of data stored in text files that are saved on
@@ -44,10 +44,10 @@ sections:
       visit certain other websites.
 
 
-      ## What type of cookies do we use?
+      ### What type of cookies do we use?
 
 
-      ### Necessary cookies
+      #### Necessary cookies
 
 
       Necessary cookies allow us to offer you the best possible experience when
@@ -56,7 +56,7 @@ sections:
       and have logged into that account to access the content.
 
 
-      ### Functionality cookies
+      #### Functionality cookies
 
 
       Functionality cookies let us operate the Website and Services in
@@ -65,7 +65,7 @@ sections:
       future visits.
 
 
-      ### Analytical cookies
+      #### Analytical cookies
 
 
       These cookies enable us and third party services to collect aggregated
@@ -75,7 +75,7 @@ sections:
       Website.
 
 
-      ## What are your cookie options?
+      ### What are your cookie options?
 
 
       If you don't like the idea of cookies or certain types of cookies, you can
@@ -84,7 +84,7 @@ sections:
       to learn more about cookies, visit internetcookies.org
 
 
-      ### Changes and amendments
+      #### Changes and amendments
 
 
       We reserve the right to modify this Policy or its terms relating to the
@@ -95,7 +95,7 @@ sections:
       changes. Policy was created with https://www.WebsitePolicies.com
 
 
-      ### Acceptance of this policy
+      #### Acceptance of this policy
 
 
       You acknowledge that you have read this Policy and agree to all its terms
@@ -105,7 +105,7 @@ sections:
       Services.
 
 
-      ### Contacting us
+      #### Contacting us
 
 
       If you would like to contact us to understand more about this Policy or
