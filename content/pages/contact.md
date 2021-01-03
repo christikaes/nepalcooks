@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'I have '
+          - I have a recipe!
           - Sponsorship
           - Other
       - input_type: textarea
