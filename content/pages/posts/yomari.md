@@ -9,7 +9,7 @@ excerpt: >-
   Newaa society, and is a key part of the festival of Yomari punhi.
 canonical_url: lorem-ipsum
 layout: post
-thumb_img_path: images/momo.jpg
+thumb_img_path: images/blue-panda.jpg
 content_img_path: images/20201230_155721.jpg
 ---
 Photo by [Abhishek Sanwa Limbu.](https://unsplash.com/s/photos/momo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
