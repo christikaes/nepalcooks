@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - I have a recipe!
-          - I am interested in joining Nepal Cooks
+          - I am interested in Nepal Cooks
           - I am interested in Nepal Codes
           - Other
       - input_type: textarea
