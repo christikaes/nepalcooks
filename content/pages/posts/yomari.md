@@ -12,8 +12,6 @@ layout: post
 thumb_img_path: images/blue-panda.jpg
 content_img_path: images/20201230_155721.jpg
 ---
-Photo by [Abhishek Sanwa Limbu.](https://unsplash.com/s/photos/momo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-
 Yomari, also called Yamari, is a delicacy of the Newar community in Nepal. It is a steamed dumpling that consists of an external covering of rice flour with sweet fillings such as chaku. The delicacy plays a very important role in Newaa society, and is a key part of the festival of Yomari punhi. According to some, the triangular shape of the yamari is a symbolical representation of one half of the shadkona, the symbol of Saraswati and wisdom.
 
 The name Yamari comes from two Nepal Bhasa words, "ya:" meaning "to like" and "mari" meaning "delicacy". So, literally, it is a delicacy which is very popular.
