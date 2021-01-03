@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - I have a recipe!
-          - Sponsorship
+          - I am interested in helping Nepal Cooks
           - Other
       - input_type: textarea
         name: message
