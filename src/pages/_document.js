@@ -18,6 +18,9 @@ class MyDocument extends Document {
 
                     {/* Analytics */}
                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-L0HBFLFLJH"></script>
+                    {/* Cookie consent */}
+                    <link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/>
+                    <script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script>
                     <script dangerouslySetInnerHTML={{
                         __html: `
                             window.dataLayer = window.dataLayer || [];
@@ -25,13 +28,11 @@ class MyDocument extends Document {
                             gtag('js', new Date());
 
                             gtag('config', 'G-L0HBFLFLJH');
+
+                            window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#606060","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"padding":"none","margin":"small","fontsize":"small","content":{"href":"www.nepalcooks.com/cookiepolicy"}})});
                         `
                     }}>
                     </script>
-                    
-                    {/* Cookie consent */}
-                    <link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/>
-                    <script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#606060","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"padding":"none","margin":"small","fontsize":"small","content":{"href":"www.nepalcooks.com/cookiepolicy"}})});</script>
                 </Head>
                 <body>
                     <Main />
