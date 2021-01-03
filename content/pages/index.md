@@ -27,7 +27,7 @@ sections:
   - section_id: about
     type: section_content
     title: Presented by Nepal Codes
-    content: >-
+    content: >
       <img src="https://www.nepalcodes.com/img/logo/logo.png" alt="nepal codes
       logo" width="300" style="width: 100%;max-width: 300px;margin-left:
       calc(50% - 150px);margin-bottom: 30px;"/>
@@ -38,15 +38,6 @@ sections:
       learn and teach through mentorship programs and hands on experience such
       as building applications such as this! Contact us to join our team or
       check out www.nepalcodes.com.
-
-
-      ---
-
-
-      <span>Photo by <a
-      href="https://unsplash.com/@abhishek_sanwa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Abhishek
-      Sanwa Limbu</a> on <a
-      href="https://unsplash.com/s/photos/nepali-food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
     actions:
       - label: Contact Us
         url: /contact
