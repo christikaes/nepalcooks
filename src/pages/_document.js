@@ -29,7 +29,7 @@ class MyDocument extends Document {
 
                             gtag('config', 'G-L0HBFLFLJH');
 
-                            window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#606060","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"padding":"none","margin":"small","fontsize":"small","content":{"href":"www.nepalcooks.com/cookiepolicy"}})});
+                            window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#606060","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"padding":"none","margin":"small","fontsize":"small","content":{"href":"/cookiepolicy"}})});
                         `
                     }}>
                     </script>
