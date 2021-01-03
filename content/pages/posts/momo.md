@@ -1,6 +1,6 @@
 ---
 title: Momo
-subtitle: lorem-ipsum
+subtitle: Momos are a favorite of Nepalese world wide
 date: '2021-01-02'
 excerpt: >-
   Momo is a type of steamed dumpling with some form of filling. Momo has become
