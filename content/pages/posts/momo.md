@@ -3,10 +3,10 @@ title: Momo
 subtitle: lorem-ipsum
 date: '2021-01-02'
 excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+  Momo is a type of steamed dumpling with some form of filling. Momo has become
+  a traditional delicacy in Nepal, Tibet, as well as among Nepalese and Tibetan
+  communities in Bhutan, as well as people of Ladakh, Northeast India and
+  Darjeeling regions of India.
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/momo.jpg
