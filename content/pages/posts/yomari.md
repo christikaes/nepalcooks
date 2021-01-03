@@ -3,10 +3,10 @@ title: Yomari
 subtitle: A delicacy of the Newar community of Nepal
 date: '2018-01-09'
 excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+  Yomari, also called Yamari, is a delicacy of the Newar community in Nepal. It
+  is a steamed dumpling that consists of an external covering of rice flour with
+  sweet fillings such as chaku. The delicacy plays a very important role in
+  Newaa society, and is a key part of the festival of Yomari punhi.
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/momo.jpg
