@@ -28,7 +28,7 @@ sections:
         options:
           - I have a recipe!
           - I am interested in helping Nepal Cooks
-          - Other
+          - I am interested in Nepal Codes
       - input_type: textarea
         name: message
         label: Message
