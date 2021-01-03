@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "A recipe site for Nepali foods",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "orange",
     "header": {
         "title": "Nepal Cooks",
         "tagline": "Momos and more!",
